@@ -10,7 +10,8 @@ name: "0 to Zero"
 url: #http://www.panxw.co
 domain: #www.panxw.com
 all_categories: [
-["android", "读书笔记","/posts/read.html"],
+["read", "读书笔记","/posts/read.html"],
+["javaDesign", "java方案设计","/posts/javaDesign.html"],
 ["about", "关于","/about.html"]
 ]
 
